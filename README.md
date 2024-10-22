@@ -3,7 +3,7 @@
 <h3>ENTER YOUR NAME - ISWARYA P</h3>
 <h3>ENTER YOUR REGISTER NO  - 212223230082</h3>
 <h3>EX. NO - 5</h3>
-<h3>DATE - 18/10/2024</h3>
+<h3>DATE - 22/10/2024</h3>
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
 
